@@ -1,4 +1,4 @@
-# React + Vite
+#minimal App + Signup + Login changes as patch files.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
